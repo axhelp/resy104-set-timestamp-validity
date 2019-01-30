@@ -1,0 +1,32 @@
+<project xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.kw-software.com/xml/PLCopen/TC6_XML_V10_KW.xsd">
+	<fileHeader companyName="Phoenix Contact" companyURL="https://www.phoenixcontact-software.com" productName="PC WORX" productVersion="6.30" productRelease="Build 500" creationDateTime="2019-01-30T11:29:38" contentDescription="###XMLINFO=2;1;"/>
+	<contentHeader name="resy104-timestamp" version="1548836978" modificationDateTime="2019-01-30T11:29:38" connectionCheck="true">
+		<coordinateInfo>
+			<pageSize x="999" y="9999"/>
+			<fbd>
+				<scaling x="2" y="2"/>
+			</fbd>
+			<ld>
+				<scaling x="2" y="2"/>
+			</ld>
+			<sfc>
+				<scaling x="2" y="2"/>
+			</sfc>
+		</coordinateInfo>
+	</contentHeader>
+	<types>
+		<dataTypes>
+			<datatypeWorksheet>
+				<html xmlns="http://www.w3.org/1999/xhtml">
+					<div xml:space="preserve" id="MWTDESCRIPTION" wsName="compile" xmlns="http://www.w3.org/1999/xhtml">
+						<br/>TYPE<br/>	ensure_compiled : ARRAY[0..1] OF BOOL;<br/>END_TYPE<br/>
+					</div>
+				</html>
+			</datatypeWorksheet>
+		</dataTypes>
+		<pous/>
+	</types>
+	<instances>
+		<configurations/>
+	</instances>
+</project>
